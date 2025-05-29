@@ -1,4 +1,3 @@
-import java.io.LineNumberReader;
 import java.util.Scanner;
 
 public class AnyBaseMultiplication {
